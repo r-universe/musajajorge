@@ -3,3 +3,18 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "MakeYourPalette"]
+	path = MakeYourPalette
+	url = https://github.com/musajajorge/makeyourpalette
+	shallow = true
+	registered = true
+[submodule "mapsPERU"]
+	path = mapsPERU
+	url = https://github.com/musajajorge/mapsperu
+	shallow = true
+	registered = true
+[submodule "popPyramid"]
+	path = popPyramid
+	url = https://github.com/musajajorge/poppyramid
+	shallow = true
+	registered = true

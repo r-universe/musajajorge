@@ -1,0 +1,14 @@
+[
+  {
+    "package": "MakeYourPalette",
+    "oncran": true
+  },
+  {
+    "package": "mapsPERU",
+    "oncran": true
+  },
+  {
+    "package": "popPyramid",
+    "oncran": true
+  }
+]
