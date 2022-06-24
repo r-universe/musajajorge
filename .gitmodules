@@ -3,9 +3,9 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
-[submodule "MakeYourPalette"]
-	path = MakeYourPalette
-	url = https://github.com/musajajorge/makeyourpalette
+[submodule "makePalette"]
+	path = makePalette
+	url = https://github.com/musajajorge/makepalette
 	shallow = true
 	registered = true
 [submodule "mapsPERU"]
