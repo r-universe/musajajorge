@@ -1,5 +1,9 @@
 [
   {
+    "package": "CINE",
+    "oncran": true
+  },
+  {
     "package": "makePalette",
     "oncran": true
   },
