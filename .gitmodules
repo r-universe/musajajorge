@@ -13,11 +13,6 @@
 	url = https://github.com/musajajorge/makepalette
 	shallow = true
 	registered = true
-[submodule "mapsPERU"]
-	path = mapsPERU
-	url = https://github.com/musajajorge/mapsperu
-	shallow = true
-	registered = true
 [submodule "popPyramid"]
 	path = popPyramid
 	url = https://github.com/musajajorge/poppyramid
