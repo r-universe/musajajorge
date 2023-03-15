@@ -8,14 +8,14 @@
 	url = https://github.com/musajajorge/cine
 	shallow = true
 	registered = true
-[submodule "makePalette"]
-	path = makePalette
-	url = https://github.com/musajajorge/makepalette
-	shallow = true
-	registered = true
 [submodule "mapsPERU"]
 	path = mapsPERU
 	url = https://github.com/musajajorge/mapsperu
+	shallow = true
+	registered = true
+[submodule "makePalette"]
+	path = makePalette
+	url = https://github.com/musajajorge/makepalette
 	shallow = true
 	registered = true
 [submodule "popPyramid"]
