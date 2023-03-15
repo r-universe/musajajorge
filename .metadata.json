@@ -4,11 +4,11 @@
     "oncran": true
   },
   {
-    "package": "mapsPERU",
+    "package": "makePalette",
     "oncran": true
   },
   {
-    "package": "makePalette",
+    "package": "mapsPERU",
     "oncran": true
   },
   {
