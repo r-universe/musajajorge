@@ -13,6 +13,11 @@
 	url = https://github.com/musajajorge/makepalette
 	shallow = true
 	registered = true
+[submodule "MakeYourPalette"]
+	path = MakeYourPalette
+	url = https://github.com/cran/MakeYourPalette
+	shallow = true
+	registered = true
 [submodule "mapsPERU"]
 	path = mapsPERU
 	url = https://github.com/musajajorge/mapsperu
