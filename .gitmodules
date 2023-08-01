@@ -5,12 +5,12 @@
 [submodule "CINE"]
 	path = CINE
 	url = https://github.com/musajajorge/cine
-[submodule "makePalette"]
-	path = makePalette
-	url = https://github.com/musajajorge/makepalette
 [submodule "MakeYourPalette"]
 	path = MakeYourPalette
 	url = https://github.com/cran/MakeYourPalette
+[submodule "makePalette"]
+	path = makePalette
+	url = https://github.com/musajajorge/makepalette
 [submodule "mapsPERU"]
 	path = mapsPERU
 	url = https://github.com/musajajorge/mapsperu
